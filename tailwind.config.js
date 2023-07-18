@@ -4,7 +4,11 @@ module.exports = {
     "./src/**/*.{html,ts}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage:{
+        'star': "url('src/assets/estrella.webp')",
+      }
+    },
   },
   plugins: [],
 }

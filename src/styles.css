@@ -2,3 +2,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.font-sodo {
+    font-family: "SoDo Sans SemiBold";
+}
